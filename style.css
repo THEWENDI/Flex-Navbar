@@ -1,0 +1,17 @@
+.nav{
+    background-color: #333333;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-links{
+    width: 30%;
+    list-style-type: none;
+    display: flex;
+    justify-content:space-evenly;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
